@@ -7,19 +7,20 @@
 - Temple University
 
 ## Education
-**Temple University | BS Ecology, Evolution, and Biodiversity - Minor Biology **
+**Temple University | BS Ecology, Evolution, and Biodiversity - Minor Biology**
 
 ## Internships																								
 **Field Internship** 
 *Spring 2024 - Current*
 - Field Intern Mentor: Marianna Bonfim PhD
-
-## Research Projects
-**Fungi spores with disturbance ***
-
 **Conservation Education Intern**
 *Fall 2023 - Current*
 Philadelphia Zoo
+
+## Research Projects
+Comparing fungi species presence and spore concentration with disturbance
+
+
 
 ## Scholarships
 **Temple Diamond Scholarship** 
