@@ -16,7 +16,7 @@
 
 **Conservation Education Intern**
 *Fall 2023 - Current*
-Philadelphia Zoo
+- Philadelphia Zoo
 
 ## Research Projects
 Comparing fungi species presence and spore concentration with disturbance
