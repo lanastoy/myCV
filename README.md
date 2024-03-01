@@ -10,7 +10,7 @@
 **Temple University | BS Ecology, Evolution, and Biodiversity - Minor Biology**
 
 ## Internships																								
-**Field Internship** 
+**Field Research Intern** 
 *Spring 2024 - Current*
 - Field Intern Mentor: Marianna Bonfim PhD
 
